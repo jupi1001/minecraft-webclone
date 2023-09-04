@@ -10,6 +10,8 @@ You navigate the world with the mouse and WASD.
 You can click to add blocks and Alt+Click to remove blocks.
 You world is stored in your browsers local storage.
 
+When clicking to lock the cursor to the mouse, click as close as you can to the cursor(middle of the screen). That aligns the camera center and mouse
+
 ![Preview](preview.png "Preview")
 
 In the project directory, you can run:
